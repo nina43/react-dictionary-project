@@ -14,6 +14,8 @@ export default function App() {
         <a
           href="https://github.com/nina43/react-dictionary-project"
           target="_blank"
+          noopener="true"
+          rel="noreferrer"
         >
           GitHub
         </a>

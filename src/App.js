@@ -9,7 +9,10 @@ export default function App() {
         <h3 className="text-center">Search for a definition</h3>
         <Dictionary />
       </div>
-      <footer className="app-footer">Coded by Martyna Ziarek</footer>
+      <footer className="app-footer">
+        Coded by Martyna Ziarek and is open-sourced on{" "}
+        <a href="https://github.com/nina43/react-dictionary-project">GitHub</a>
+      </footer>
     </div>
   );
 }

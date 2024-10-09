@@ -13,7 +13,7 @@ export default function App() {
         Coded by Martyna Ziarek and is open-sourced on{" "}
         <a
           href="https://github.com/nina43/react-dictionary-project"
-          type="_blank"
+          target="_blank"
         >
           GitHub
         </a>

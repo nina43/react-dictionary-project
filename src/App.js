@@ -11,7 +11,12 @@ export default function App() {
       </div>
       <footer className="app-footer">
         Coded by Martyna Ziarek and is open-sourced on{" "}
-        <a href="https://github.com/nina43/react-dictionary-project">GitHub</a>
+        <a
+          href="https://github.com/nina43/react-dictionary-project"
+          type="_blank"
+        >
+          GitHub
+        </a>
       </footer>
     </div>
   );

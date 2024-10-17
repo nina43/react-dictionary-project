@@ -1,0 +1,12 @@
+.results h2 {
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 1.5;
+  text-transform: capitalize;
+}
+
+.results h4 {
+  font-size: 18px;
+  opacity: 0.8;
+  text-transform: capitalize;
+}

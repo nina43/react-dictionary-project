@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
         <h1 className="text-center">Dictionary</h1>
         <h3 className="text-center">Search for a definition</h3>
-        <Dictionary />
+        <Dictionary defaultKeyword="season" />
       </div>
       <footer className="app-footer">
         Coded by Martyna Ziarek and is open-sourced on{" "}

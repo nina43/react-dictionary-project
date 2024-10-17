@@ -1,0 +1,20 @@
+.Meaning .partOfSpeech {
+  text-transform: capitalize;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.Meaning .definition {
+  font-size: 15px;
+  font-weight: 450;
+}
+
+.Meaning .example {
+  font-size: 14px;
+  opacity: 0.6;
+  font-style: italic;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}

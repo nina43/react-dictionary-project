@@ -2,7 +2,8 @@ body {
   background-color: rgb(251, 220, 220);
 }
 .App {
-  margin: 30px 0;
+  margin: 0 auto;
+  max-width: 960px;
 }
 
 .App h3 {
